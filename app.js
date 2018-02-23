@@ -4,7 +4,7 @@ var btn3 = document.getElementById("button3");
 
 favoriteDesserts = ["A","b","C"];
 favoriteFoods = ["A","B", "C"];
-favoriteGames = ["A","B","C"];
+favoriteGames = ["WW2","","C"];
 
 btn1.addEventListener("click", function(){
 
@@ -17,3 +17,4 @@ btn2.addEventListener("click", function(){
 btn3.addEventListener("click", function(){
 
 });
+
